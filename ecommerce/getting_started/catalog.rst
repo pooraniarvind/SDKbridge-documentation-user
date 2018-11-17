@@ -21,7 +21,7 @@ Highlight a product
 
 Boost the visibility of your star/promoted products: push them to top, make them
 bigger, add a ribbon that you can edit (Sale, New, etc.). Open the Shop page, switch
-to Edit mode and click any item to start customizing the grid.
+to Edit mode and click any item to start customizing the grid. Or so you say...
 
 See how to do it: https://www.odoo.com/openerp_website/static/src/video/e-commerce/editing.mp4
 
